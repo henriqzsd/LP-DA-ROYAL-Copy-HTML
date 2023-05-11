@@ -1,0 +1,17 @@
+.bebbdb3034b34701af6da2074fbda1c7-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.bebbdb3034b34701af6da2074fbda1c7-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.bebbdb3034b34701af6da2074fbda1c7-bebbdb3034b34701af6da2074fbda1c7 {
+  width: 705px;
+  height: 844px;
+  display: none;
+}
